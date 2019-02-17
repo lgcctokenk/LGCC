@@ -1,0 +1,2 @@
+# LGCC
+LGCCToken contract
